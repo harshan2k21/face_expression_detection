@@ -1,0 +1,37 @@
+# --- Python & Environment ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# --- Datasets (CRITICAL) ---
+# Do not upload raw data or unzipped images
+unzipped/
+
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# --- Models ---
+# Large binary files should not go into Git
+*.h5
+*.keras
+*.tflite
+*.json
+*.yaml
+
+# --- VS Code / IDE ---
+.vscode/
+.idea/
+
+# --- Generated Plots ---
+# Ignore the output graphs unless you specifically want them
+confusion_matrix.png
+training_results.png
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
