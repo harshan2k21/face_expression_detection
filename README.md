@@ -118,6 +118,9 @@ python test_for_moblieNet.py
 
   * **Confusion Matrix:** Generated after training to visualize class accuracy.
   * **Training Strategy:** Fine-tuning with a low learning rate (`1e-5`) ensured the pre-trained weights were adapted to facial features without being destroyed.
+<img width="613" height="557" alt="Screenshot from 2025-11-23 18-18-08" src="https://github.com/user-attachments/assets/d43ac966-43a7-42cd-a804-edb8461dea21" />
+<img width="1000" height="496" alt="Screenshot from 2025-11-23 18-07-14" src="https://github.com/user-attachments/assets/506d89ec-4383-47ac-933f-0b9473a7f0a2" />
+
 
 ## 🛠️ Tech Stack
 
