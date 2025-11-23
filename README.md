@@ -3,11 +3,13 @@
 ````markdown
 # Face Expression Detection using MobileNetV2
 
-This project is a Deep Learning application capable of detecting and classifying human facial expressions into 7 distinct categories. It utilizes **Transfer Learning** with the **MobileNetV2** architecture to achieve high performance with a lightweight model, making it suitable for real-time applications.
+This project is a Deep Learning application capable of detecting and classifying human facial expressions into 7 distinct categories. It utilizes
+**Transfer Learning** with the **MobileNetV2** architecture to achieve high performance with a lightweight model, making it suitable for real-time applications.
 
 ## 📌 Introduction
 
-Facial Emotion Recognition (FER) is a key technology in Human-Computer Interaction (HCI). This project moves beyond simple CNNs by leveraging a pre-trained MobileNetV2 model. The system detects faces in an image/video, processes the region of interest (ROI), and classifies the emotion using a fine-tuned neural network.
+Facial Emotion Recognition (FER) is a key technology in Human-Computer Interaction (HCI). This project moves beyond simple CNNs by leveraging a pre-trained MobileNetV2
+ model. The system detects faces in an image/video, processes the region of interest (ROI), and classifies the emotion using a fine-tuned neural network.
 
 **Supported Emotions:**
 1. Happy
@@ -124,14 +126,3 @@ python test_for_moblieNet.py
 
 <!-- end list -->
 
-```
-
-***
-
-### How to use this:
-1.  Copy the text above.
-2.  Create a file named `README.md` in VS Code.
-3.  Paste the text.
-4.  Save it.
-5.  When you push to GitHub, the `mermaid` diagram and headers will render beautifully automatically!
-```
