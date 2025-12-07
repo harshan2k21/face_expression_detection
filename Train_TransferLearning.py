@@ -6,10 +6,8 @@ import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, classification_report
 import seaborn as sns
-
-# --- FIX FOR DISPLAY ERROR ---
 import matplotlib
-matplotlib.use('Agg') # Force non-interactive backend (saves files instead of opening windows)
+matplotlib.use('Agg') 
 import matplotlib.pyplot as plt
 
 # ----------------------------

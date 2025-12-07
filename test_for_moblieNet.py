@@ -9,7 +9,7 @@ import tensorflow as tf
 MODEL_PATH = "emotion_mobilenet_v2.h5" 
 
 # Path to the photo you want to test
-IMAGE_PATH = "/home/harshan/Documents/edl/23BTRCL015/dataset_Face/23BTRCL015-02-SU-01.jpeg"  # <--- REPLACE THIS with your specific image filename
+IMAGE_PATH = "/home/harshan/Documents/edl/Face_expression_detection/test/dis_02.jpg"  # <--- REPLACE THIS with your specific image filename
 
 IMG_SIZE = 96 
 
